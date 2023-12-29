@@ -39,4 +39,4 @@
 <img src="./images/illustrator.svg" title="Illustrator" alt="Illustrator" width="40px" height="40px"/>&nbsp;
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KikinovK&layout=compact" alt="stast's language" />   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KikinovK&show_icons=true&theme=transparent" alt="github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=KikinovK&show_icons=true&theme=transparent" alt="github stats" />
