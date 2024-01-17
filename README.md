@@ -1,5 +1,5 @@
 # Hi, I'm Kosty!&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
-
+[![Konstantin Kikinov profile views](https://u8views.com/api/v1/github/profiles/9951988/views/day-week-month-total-count.svg)](https://u8views.com/github/KikinovK)
 ## Connect with me:
 <a href="https://t.me/KonstantinKikinov" target="blank"><img src="./images/telegram.svg" title="Telegram" alt="Telegram" width="40px" height="40px"></a>&nbsp;
 <a href="https://www.linkedin.com/in/kostiantyn-kikinov-505387b3/" target="blank"><img src="./images/linkedin.svg" title="Linkedin" alt="Linkedin" width="40px" height="40px"></a>
@@ -118,5 +118,3 @@
 ## Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KikinovK&show_icons=true&theme=transparent" alt="github stats" />
-
-[![Konstantin Kikinov profile views](https://u8views.com/api/v1/github/profiles/9951988/views/day-week-month-total-count.svg)](https://u8views.com/github/KikinovK)
